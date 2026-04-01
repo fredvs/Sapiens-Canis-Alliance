@@ -1,6 +1,4 @@
-# Sapiens-Canis-Alliance
-
-# THÈSE : L’ALLIANCE SAPIENS-CANIS COMME CATALYSEUR DE L’ANTHROPOCÈNE
+# L’ALLIANCE SAPIENS-CANIS COMME CATALYSEUR DE L’ANTHROPOCÈNE
 ## Sous-titre : Symbiose Biologique, Appropriation Technologique et Éviction de Néandertal
 
 ---
